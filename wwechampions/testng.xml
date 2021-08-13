@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/USER/IdeaProjects/wwechampions/src/main/java/pages/IdScopelyPage.java">
+        <classes>
+            <class name="BasePageTest">
+                <methods>
+                    <include name="loginUpToIdScopelyPage"/>
+                </methods>
+            </class>
+            <class name="IdScopelyPageTest">
+                <methods>
+                    <include name="loginFullFlow"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

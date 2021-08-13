@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="wwechampions"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="14.640">
+    <properties></properties>
+
+
+
+            <testcase
+                name="loginScopelyId"
+                time="14.640"
+                classname="IdScopelyPageTest">
+            </testcase>
+</testsuite>
